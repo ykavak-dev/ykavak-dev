@@ -77,20 +77,13 @@ Hackathon project built during Turkcell 72 Hours — a mobile application develo
 
 <div align="center">
 
-<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
-<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykavak-dev&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
+
+</div>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ykavak-dev&theme=github-dark&area=true&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=1f6feb" />
 
 </div>
 
