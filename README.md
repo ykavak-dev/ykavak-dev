@@ -48,23 +48,47 @@ hackathons: Building projects & winning challenges
 
 ## Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ykavak-dev/ShipGuard">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ykavak-dev&repo=ShipGuard&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ykavak-dev/nanowave">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ykavak-dev&repo=nanowave&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+### [ShipGuard](https://github.com/ykavak-dev/ShipGuard)
+CLI security scanner that detects deploy risks — hardcoded secrets, insecure Docker setups, excessive logging — and generates AI-guided patches.
 
-<a href="https://github.com/ykavak-dev/Turkcell-72-Saat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ykavak-dev&repo=Turkcell-72-Saat&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/ykavak-dev/Numerical-Solver-v0.9">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ykavak-dev&repo=Numerical-Solver-v0.9&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### [nanowave](https://github.com/ykavak-dev/nanowave)
+CLI tool that generates, compiles, and runs SwiftUI apps from natural language prompts via Claude Code.
+
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Turkcell-72-Saat](https://github.com/ykavak-dev/Turkcell-72-Saat)
+Hackathon project built during Turkcell 72 Hours — a mobile application developed under time pressure.
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### [Numerical-Solver-v0.9](https://github.com/ykavak-dev/Numerical-Solver-v0.9)
+Numerical methods solver implementing core mathematical algorithms for engineering computations.
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -72,8 +96,14 @@ hackathons: Building projects & winning challenges
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ykavak-dev&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykavak-dev&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+<img height="180em" src="https://raw.githubusercontent.com/ykavak-dev/ykavak-dev/output/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
 
 </div>
 
