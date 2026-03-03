@@ -61,30 +61,11 @@ CLI security scanner that detects deploy risks — hardcoded secrets, insecure D
 </td>
 <td width="50%" valign="top">
 
-### [nanowave](https://github.com/ykavak-dev/nanowave)
-CLI tool that generates, compiles, and runs SwiftUI apps from natural language prompts via Claude Code.
-
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### [Turkcell-72-Saat](https://github.com/ykavak-dev/Turkcell-72-Saat)
 Hackathon project built during Turkcell 72 Hours — a mobile application developed under time pressure.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### [Numerical-Solver-v0.9](https://github.com/ykavak-dev/Numerical-Solver-v0.9)
-Numerical methods solver implementing core mathematical algorithms for engineering computations.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 </tr>
