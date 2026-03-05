@@ -69,6 +69,21 @@ Hackathon project built during Turkcell 72 Hours — a mobile application develo
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### [ShieldAI](https://github.com/ykavak-dev/ShieldAI)
+Open-source security analysis platform that maps attack surfaces across 14 APIs, scores domain risk through a 5-layer correlation engine, and generates actionable PDF reports — no API keys, no sign-up required.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+</td>
+</tr>
 </table>
 
 <br/>
